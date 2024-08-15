@@ -17,7 +17,7 @@ export const Hero = () => {
         </a>
         </div>
         <div className="flex justify-center">
-        <h1 className="text-5xl sm:text-7xl font-bold tracking-tighter text-center mt-8 inline-flex">We're developers <br /> who judge a book by its cover</h1>
+        <h1 className="text-5xl sm:text-7xl font-bold tracking-tighter text-center mt-8 inline-flex">We are developers <br /> who judge a book by its cover</h1>
         </div>
         <div className="flex justify-center">
         <p className="text-center text-xl mt-8 max-w-md">
