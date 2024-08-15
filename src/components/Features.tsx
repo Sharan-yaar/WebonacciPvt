@@ -19,7 +19,7 @@ const features = [
   {
     title: "Amarjeet Abdar",
     description:
-      "Back-end developer specializing in robust, scalable solutions. Expertise in server-side logic, database management, and API integration to power your applications.",
+      "Back-end developer specialized in robust, scalable solutions. Expertise in server-side logic, database management, and API integration to power your applications.",
   },
 ];
 

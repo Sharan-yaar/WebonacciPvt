@@ -57,7 +57,8 @@ export const CallToAction = () => {
           </button>
         </form>
       </div>
-      <a href="#"><p className=" justify-center mt-4 text-purple-400">Email : www.webonacci.co.in</p></a>
+      <a href="#"><p className=" justify-center mt-4 text-purple-400">Email : www.webonacci.co@gmail.com</p></a>
+      <a href="https://wa.me/+919109036187"><p className=" justify-center mt-4 text-green-400">Whatsapp & Phone : +91 9993028787</p></a>
     </div>
     </section>
   )
