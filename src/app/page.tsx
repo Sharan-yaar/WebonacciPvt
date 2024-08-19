@@ -11,7 +11,7 @@ import { Services } from "@/components/Services";
 export default function Home() {
   return (
     <>
-    <Banner />
+    
     <Navbar />
     <Hero />
     <LogoTicker />

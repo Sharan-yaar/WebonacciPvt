@@ -30,7 +30,7 @@ export const CallToAction = () => {
        <Image 
         src={helixImage} 
         alt="" 
-        className="absolute top-6 left-[calc(100%+36px)]" 
+        className="hidden sm:inline absolute top-6 left-[calc(100%+36px)] " 
         />
         </motion.div>
         <motion.div style={{ translateY }}>
@@ -58,7 +58,7 @@ export const CallToAction = () => {
         </form>
       </div>
       <a href="#"><p className=" justify-center mt-4 text-purple-400">Email : www.webonacci.co@gmail.com</p></a>
-      <a href="https://wa.me/+919109036187"><p className=" justify-center mt-4 text-green-400">Whatsapp & Phone : +91 9993028787</p></a>
+      <a href="https://wa.me/+919109036187"><p className=" justify-center mt-4 text-green-400">Whatsapp & Phone : +91 9109036187</p></a>
     </div>
     </section>
   )
