@@ -7,9 +7,9 @@ export const Hero = () => {
       <div className="absolute h-[375px] w-[750px] sm:w-[1536px] sm:h-[768px] rounded-[100%] bg-black left-1/2 -translate-x-1/2 border-[#B48CDE] bg-[radial-gradient(closest-side,#000_82%,#9560EB)] top-[calc(100%-96px)]"></div>
       <div className="container relative">
         <div className="flex items-center justify-center">
-        <a href="https://webonacci.carrd.co/" 
+        <a href="https://calendly.com/webonacci-co" 
           className="inline-flex gap-3 border py-1 px-2 rounded-lg border-white/30">
-          <span className="bg-[linear-gradient(to_right,#FFFFFF,#B0AAFA,#FFFFFF)] text-transparent bg-clip-text [-webkit-background-clip:text]">Old Website</span>
+          <span className="bg-[linear-gradient(to_right,#FFFFFF,#B0AAFA,#FFFFFF)] text-transparent bg-clip-text [-webkit-background-clip:text]">Our calendi Link</span>
           <span className="inline-flex items-center gap-1"> 
           <span>Go to link</span>
           <ArrowWicon />

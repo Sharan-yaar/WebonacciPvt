@@ -16,9 +16,7 @@ export const Navbar = () => {
          />
          </div>
           
-        <div className="border border-white border-opacity-30 h-10 w-10 inline-flex justify-center items-center rounded-lg sm:hidden">
-        <MenuIcon className="text-white" />
-      </div>
+        
 
       <nav className="gap-4 items-center hidden sm:flex">
         <a href="#" className="text-opacity-60 text-white hover:text-opacity-100 transition">Home</a>
@@ -36,3 +34,9 @@ export const Navbar = () => {
 
   )
 };
+
+// for mobile 3 bar menu dropdown
+/*  <div className="border border-white border-opacity-30 h-10 w-10 inline-flex justify-center items-center rounded-lg sm:hidden">
+    <MenuIcon className="text-white" />
+    </div>
+*/

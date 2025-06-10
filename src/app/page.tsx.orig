@@ -6,7 +6,11 @@ import { Footer } from "@/components/Footer";
 import { Hero } from "@/components/Hero";
 import { LogoTicker } from "@/components/LogoTicker";
 import { Navbar } from "@/components/Navbar";
+<<<<<<< HEAD
+import { ProductShowcase } from "@/components/ProductShowcase";
+=======
 import { ProductShowcase } from "@/components/ProjectShowcaseItem";
+>>>>>>> 1b8dcb5 (updated recent projects and founders photos)
 import { Services } from "@/components/Services";
 export default function Home() {
   return (
